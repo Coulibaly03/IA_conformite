@@ -1,0 +1,108 @@
+{
+  "title": "RFP Response Specification ",
+  "type": "object",
+  "properties": {
+    "requirements": [
+      {
+        "requirement_id": "1.1- 1.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)- 1.1. Background,1.2. Scope,",
+        "extracted_requirements": " The contractor shall provide non-personal, professional, and advisory and assistance for a variety of medical research and development program management, requirements management, cost analysis support, training administration, administrative and clerical management support- The Contractor shall establish and maintain communication with all stakeholders involved with or influential to capability development and integration as these services are non-performance based",
+        "requirement_type": "Business Requirements",
+        "rfp_domain": "Government and Public Services",
+        "requirement_domain": "Government Contracts",
+        "confidence_factor": 0.95,
+        "related_requirements": []
+      },
+      {
+        "requirement_id": "3-3.1",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.1. Support Services,3.1.1. TASK I – EXECUTIVE ADMINISTRATIVE SUPPORT,3.1.2. TASK II –REQUIREMENTS ANALYST MANAGEMENT SUPPORT(CLASSIFIED),3.1.3. TASK III –TRAINING and STAFF DEVELOPMENT SUPPORT,3.1.3.1. Training Specialist III ",
+        "extracted_requirements": "The contractor shall provide one mid-senior level Executive Administrative Support to two Government executives and approximately 40 personnel within the SG5 Capability Development Division, located at Defense Health Headquarters (DHHQ), 7700 Arlington Blvd., Falls Church, VA.-Contractor shall provide three mid-level and one senior-level Requirement Management (RM) Analysts to assst in requirements development and management services in support of AFMRA/SG5R located at DHHQ, Falls Church, VA The contractor shall provide a Training Specialist III in support of AFMSA/CSS located at DHHQ, Falls Church, VA. Monitor and document compliance via the appropriate tracking system (i.e., Air Force Training Record (AFTR), Air Force Information Management Publishing Tool, Advanced Distributed Learning Service (ADLS), Joint Knowledge Online (JKO), etc.) or other methodology which includes using various automated software, accessing different training systems and entering appropriate",
+        "requirement_type": "No-Functional Requirements",
+        "rfp_domain": "Professional Services",
+        "requirement_domain": "Services de support",
+        "confidence_factor": 0.85,
+        "related_requirements": []
+      },
+      {
+        "requirement_id": "3-3.1",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.1. Support Services,3.1.3.2. Training Administrator,3.1.4. TASK IV – COST ANALYSIS SERVICE SUPPORT,3.1.5. TASK V – CAPABILITY DEVELOPMENT PROGRAM MANAGEMENT SERVICE SUPPORT",
+        "extracted_requirements": " The contractor shall provide a Training Administrator in support of AFMSA/CSS located at DHHQ, Falls Church, VA. Provide training and technical assistance with staff development and perform the following duties-The contractor shall provide one mid-level and one senior level cost analyst in support of AFMRA/SG5R at DHHQ, Falls Church, VA. Provide cost life cycle management expertise in support of program requirements managers, project planning activities, and deliberate planning processes at an enterprise level. Perform the following duties,Provide subject matter experts (SMEs) and demonstrate comprehensive knowledge across the Defense Acquisition System, including Requirements, Research & Development, and Acquisition, and Planning, Programming, Budget & Execution.Coordinate the CDOG and SGROC meetings in concert with AFMRA/SG5 leadership,Monitor, coordinate, and plan projects within the AFMRA/SG5 Lifecycle Strategy Branch, Innovation and Transition Branch (SG5L-S)",
+        "requirement_type": "No-Functional Requirements",
+        "rfp_domain": "Professional Services",
+        "requirement_domain": "Services de support",
+        "confidence_factor": 0.9,
+        "related_requirements": []
+      },
+      {
+        "requirement_id": "3-3.1",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.1. Support Services,3.1.3.2. Training Administrator,3.1.4. TASK IV – COST ANALYSIS SERVICE SUPPORT,3.1.5. TASK V – CAPABILITY DEVELOPMENT PROGRAM MANAGEMENT SERVICE SUPPORT",
+        "extracted_requirements": "Provide two Program Manager Level II support personnel,Monitor, coordinate, and plan projects within the AFMRA/SG5 Lifecycle Strategy Branch, Innovation and Transition Branch (SG5L-S), and Requirements Management Branch (SG5R) at DHHQ in Falls Church, VA - Coordinate the CDOG and SGROC meetings in concert with AFMRA/SG5 leadership. , Prepare read-aheads, slide presentations, documentation of proceedings, video and teleconferencing, and logistical requirements (i.e., venue location and set-up) for meetings. , Provide administrative support for the strategic oversight and guidance of execution activities funded by Defense Health Program (DHP) Research, Development, Testing, and Evaluation (RDT&E) resources , Maintain and coordinate CDOG and SRGOC meeting schedules to meet organizational needsMaintain and coordinate meeting schedules to meet organizational needs. , Execute administrative and logistical actions, including securing meeting venues, drafting and sending meeting",
+        "requirement_type": "No-Functional Requirements",
+        "rfp_domain": "Professional Services",
+        "requirement_domain": "Services de support",
+        "confidence_factor": 0.8,
+        "related_requirements": []
+      },
+      {
+        "requirement_id": "3-3.1",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.1.6.TASK VI – INTEGRATION PROGRAM MANAGEMENT SERVICE SUPPORT - 3.2. Minimum Qualifications",
+        "extracted_requirements": "Serve as Subject Matter Expert (SME) and demonstrate comprehensive knowledge of several related fields across the Defense Acquisition System, including Requirements, Research & Development, Acquisition, and Planning, Programming, Budget & Execution,Manage AFMS Innovation Program, including the development of and implementation of the division’s innovation strategies in concert with Government stakeholders. Interface with internal and external Government and Industry stakeholders towards the execution of bringing forth innovative research that supports capabilities required by the AFMS/warfighter. Establish relationships with inter and intra-agency partners (i.e., AFWERX, SBIR/STTR programs, etc.), and partner with innovation transition stakeholders across the RD&A, Logistics, and end-user communities,The Contractor shall provide personnel with the minimum qualifications listed below",
+        "requirement_type": "Project Coordination Requirements",
+        "rfp_domain": "Project coordination",
+        "requirement_domain": "integration program",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      },
+       { 
+        "requirement_id": "3-3.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.2.1. TASK I – EXECUTIVE ADMINISTRATIVE SUPPORT",
+        "extracted_requirements": "The Contractor shall have an associate degree in science such as communication, business management or administration, or related degree-The contractor shall have a minimum of 4 years of related work experience in preparing and editing executive documents-The contractor shall have a minimum of 4 years of related work experience in working with senior level DoD, other federal government agencies, or private sector companies,The Contractor must complete DTS, TMT and Action Officer (AO) training within 60 calendar days (or next available class) of start date",
+        "requirement_type": "Business Requirements",
+        "rfp_domain": "Administrative Services",
+        "requirement_domain": "Administrative Services",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      },
+       {
+        "requirement_id": "3-3.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.2.2. TASK II - REQUIREMENTS ANALYST MANAGEMENT SUPPORT (CLASSIFIED)",
+        "extracted_requirements": "The three Mid-Level position shall have a bachelor's degree in sciences such as business administration, business management, project management, information technology, healthcare management, logistics, acquisition, or Science, Technology, Engineering, Mathematics (STEM) related field and 5 years of work-related experience in requirements development, lifecycle coordination, or acquisition - The one Senior-Level position shall have a bachelor's degree in sciences such as business administration, business management, project management, information technology, healthcare management, logistics, acquisition, or STEM related field and 8 years of work-related experience requirements development, lifecycle coordination, or acquisition",
+        "requirement_type": "Security Requirements",
+        "rfp_domain": "Security Services",
+        "requirement_domain": "Security Services",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      },
+       {
+        "requirement_id": "3-3.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.2.3. TASK III –TRAINING AND STAFF DEVELOPMENT SUPPORT,3.2.3.1. Training Specialist III-Falls Church, VA-3.2.3.2. Training Administrator-Falls Church, VA",
+        "extracted_requirements": "The contractor shall have a bachelor's degree in Management, Education, or Information Technology -The contractor shall have an associate degree in Administration, Management, Education, Information Technology or similar degree ",
+        "requirement_type": "User Requirements",
+        "rfp_domain": "Training and Development Services",
+        "requirement_domain": "Training and Development Services",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      },
+       {
+        "requirement_id": "3-3.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.2.4. TASK IV –COST ANALYSIS SERVICE SUPPORT",
+        "extracted_requirements": "The contractor shall have a bachelor's degree in science such as Finance, Accounting, Statistics, or related discipline,The one Mid-Level position shall have 4 years’ experience in the financial analysis and competency in the two or more of following analyses: ROI, ROM, WBS, BCA, LCC, CAIV, AoA, cost benefit/cost risk analysis, affordability/supportability analysis,The one Senior-level position must have 8 years’ experience in the financial analysis and competency in the two or more of following analyses: ROI, ROM, WBS, BCA, LCC, CAIV, AoA, cost benefit/cost risk analysis, affordability/supportability analysis.",
+        "requirement_type": "Business Requirements",
+        "rfp_domain": "Financial Services",
+        "requirement_domain": "Financial Services",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      },
+       {
+        "requirement_id": "3-3.2",
+        "original_context": "Air Force Medical Readiness Agency(AFMRA)-3. CONTRACT REQUIREMENTS,3.2.5. TASK V – CAPABILITY DEVELOPMENT PROGRAM MANAGEMENT SERVICE SUPPORT",
+        "extracted_requirements": "The Contractor shall have a bachelor's degree in science such as Business, Information Technology, Administration, or Health Sciences",
+        "requirement_type": "Business Requirements",
+        "rfp_domain": "Program Management",
+        "requirement_domain": "Program Management",
+        "confidence_factor": 0.7,
+        "related_requirements": []
+      }
+    ]
+  }
+}
